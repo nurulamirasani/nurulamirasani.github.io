@@ -34,7 +34,7 @@ li a:hover
 
 header 
 	{
-	background-image:url(images/HomeCover.jpg);
+	background-image:url(HomeCover.jpg);
 	width:1292px;
 	height: 707px;
 	background-size: cover;
